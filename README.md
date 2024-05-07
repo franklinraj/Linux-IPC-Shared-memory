@@ -124,4 +124,4 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 
 # RESULT:
-The program is executed successfully.
+ The program is executed successfully.
